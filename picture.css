@@ -1,0 +1,6 @@
+body{
+    background: linear-gradient(to bottom right, #90dbf4 , #a3c4f3, #cfbaf0,#f1c0e8,#ffcfd2);
+}
+.card{
+    transform: rotate(-3deg);
+}
